@@ -16,7 +16,7 @@ Figured it could be because of other elements of the project, so thought about t
 
 ### 2
 
-Cloned [Thomas Heller Chrome Extension example repo](https://github.com/thheller/chrome-ext-v3) here and tried it as is. Still didn't work.
+Cloned [Thomas Heller Chrome Extension example repo](https://github.com/thheller/chrome-ext-v3/tree/147139ea97f6c3c1bc3d7c2f64761b9fa98658cb) here and tried it as is. Still didn't work.
 
 ### 3
 
